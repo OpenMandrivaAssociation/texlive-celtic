@@ -1,6 +1,6 @@
 Name:		texlive-celtic
 Version:	39797
-Release:	1
+Release:	2
 Summary:	A TikZ library for drawing celtic knots
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/celtic
