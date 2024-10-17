@@ -3,7 +3,7 @@ Version:	39797
 Release:	2
 Summary:	A TikZ library for drawing celtic knots
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/celtic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/celtic
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/celtic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/celtic.doc.r%{version}.tar.xz
